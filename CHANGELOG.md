@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.103.0](https://github.com/kunchenguid/no-mistakes/compare/v1.102.1...v1.103.0) (2026-10-28)
+
+
+### Features
+
+* **agent:** add explicit reviewer quota fallback chains ([#1634](https://github.com/kunchenguid/no-mistakes/issues/1634)) ([f2a99ec](https://github.com/kunchenguid/no-mistakes/commit/f2a99ec90167a4e173f6e5098224091701a50251))
+* **pipeline:** support expanded PR testing evidence ([#1632](https://github.com/kunchenguid/no-mistakes/issues/1632)) ([15ff6d8](https://github.com/kunchenguid/no-mistakes/commit/15ff6d8c21cd8f7df088219aef9ad3fc450b9b87))
+
 ## [1.102.1](https://github.com/kunchenguid/no-mistakes/compare/v1.102.0...v1.102.1) (2026-10-27)
 
 
